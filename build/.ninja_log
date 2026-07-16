@@ -1,0 +1,19 @@
+# ninja log v7
+42	130	8058676598756493	CMakeFiles/MiniAdventure.dir/src/Player.cpp.obj	9c7f84b98f506c60
+8	3039	8058677244366955	CMakeFiles/MiniAdventure.dir/src/main.cpp.obj	eb3d4bb239ed0a1c
+14	3065	8058677244427015	CMakeFiles/MiniAdventure.dir/src/Game.cpp.obj	dbe8c86f9501df1e
+3065	3251	8058677274929902	MiniAdventure.exe	83f9ec81de33ba4
+29	1063	8058679610304605	CMakeFiles/MiniAdventure.dir/src/main.cpp.obj	eb3d4bb239ed0a1c
+38	1073	8058679610404686	CMakeFiles/MiniAdventure.dir/src/Player.cpp.obj	9c7f84b98f506c60
+34	1077	8058679610364655	CMakeFiles/MiniAdventure.dir/src/Game.cpp.obj	dbe8c86f9501df1e
+1077	1231	8058679620794115	MiniAdventure.exe	83f9ec81de33ba4
+29	931	8058680953754818	CMakeFiles/MiniAdventure.dir/src/Player.cpp.obj	9c7f84b98f506c60
+932	1092	8058680962783017	MiniAdventure.exe	83f9ec81de33ba4
+28	926	8058681322584788	CMakeFiles/MiniAdventure.dir/src/Player.cpp.obj	9c7f84b98f506c60
+928	1088	8058681331582962	MiniAdventure.exe	83f9ec81de33ba4
+29	935	8058681450073681	CMakeFiles/MiniAdventure.dir/src/Player.cpp.obj	9c7f84b98f506c60
+935	1100	8058681459131949	MiniAdventure.exe	83f9ec81de33ba4
+30	919	8058681859779682	CMakeFiles/MiniAdventure.dir/src/Player.cpp.obj	9c7f84b98f506c60
+920	1076	8058681868677818	MiniAdventure.exe	83f9ec81de33ba4
+14	932	8058682300450295	CMakeFiles/MiniAdventure.dir/src/Player.cpp.obj	9c7f84b98f506c60
+933	1099	8058682309638641	MiniAdventure.exe	83f9ec81de33ba4

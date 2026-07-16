@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.20)
+
+project(MiniAdventure)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+find_package(SFML 3 REQUIRED COMPONENTS Graphics Window System Audio)
+
+add_executable(MiniAdventure
+    src/main.cpp
+    src/Game.cpp
+    src/Player.cpp
+)
+
+target_include_directories(MiniAdventure PRIVATE include)
+
+target_link_libraries(MiniAdventure PRIVATE
+    SFML::Graphics
+    SFML::Window
+    SFML::System
+    SFML::Audio
+)

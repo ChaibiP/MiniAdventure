@@ -1,0 +1,3 @@
+C:/Users/K-YOU W LE D/Documents/GitHub/MiniAdventure/build/CMakeFiles/MiniAdventure.dir
+C:/Users/K-YOU W LE D/Documents/GitHub/MiniAdventure/build/CMakeFiles/edit_cache.dir
+C:/Users/K-YOU W LE D/Documents/GitHub/MiniAdventure/build/CMakeFiles/rebuild_cache.dir
